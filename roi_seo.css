@@ -1,0 +1,20 @@
+#roi_seo_credit { font-size: 11px; padding-top: 15px; overflow: hidden; clear: both; text-shadow: 1px 1px rgba(255,255,255,1); line-height: 11px; }
+#roi_seo_credit a:link,
+#roi_seo_credit a:visited { text-decoration: none; }
+#roi_seo_credit img { float: left; }
+#roi_seo_credit span  { float: left; display: inline-block; padding: 2px 0 0 5px; }
+table#roi_seo { padding-top: 15px; }
+table#roi_seo .description { font-size: 11px; line-height: 13px; padding-left: 5px; }
+.roi_seo_description { font-size: 11px; line-height: 14px; padding-left: 4px; }
+table#roi_seo td { vertical-align: top; padding-bottom: 10px !important;  }
+table#roi_seo td.roi_seo_label { padding-top: 6px; width: 210px; }
+table#roi_seo td.roi_seo_label code { font-size: 12px; width: 180px; padding: 2px 5px; text-shadow: 1px 1px rgba(255,255,255,0.8) }
+a.roi_seo_q { text-decoration: none !important; font-size: 11px; }
+#roi_seo_description,
+table#roi_seo td textarea { width: 350px; height: 90px; }
+table#roi_seo textarea,
+table#roi_seo input { padding-bottom: 5px !important; }
+table#roi_seo input { width: 350px; }
+.chars_left { font-weight: bold; }
+.a_title_field { width: 400px; }
+#roi_seo_settings_page_wrap input[type=text] { width: 350px; }
